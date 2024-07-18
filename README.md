@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : กันตพงษ์ เตมีศักดิ์
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660612138.vercel.app
 
 ---
 
